@@ -1,1 +1,1 @@
-# Extract-Stock-sentiment-using-News-Headlines
+# Stock sentiment analysis using News Headlines
